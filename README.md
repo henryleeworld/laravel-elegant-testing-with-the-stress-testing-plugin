@@ -1,4 +1,4 @@
-# Laravel 10 使用壓力測試插件進行優雅測試
+# Laravel 11 使用壓力測試插件進行優雅測試
 
 引入 pestphp 的 pest-plugin-stressless 套件來擴增使用壓力測試插件進行優雅測試，這個插件用於檢查應用程式在現實或極端條件下的穩定性和可靠性，具體取決於您設定的場景。
 
@@ -25,5 +25,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/9JlH7Uq.png)
+![](https://i.imgur.com/SqFNmAO.png)
 > 快速對網址進行壓力測試

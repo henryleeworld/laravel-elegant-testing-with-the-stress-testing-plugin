@@ -52,6 +52,7 @@ return [
     'ends_with' => 'The :attribute field must end with one of the following: :values.',
     'enum' => 'The selected :attribute is invalid.',
     'exists' => 'The selected :attribute is invalid.',
+    'extensions' => 'The :attribute field must have one of the following extensions: :values.',
     'file' => 'The :attribute field must be a file.',
     'filled' => 'The :attribute field must have a value.',
     'gt' => [
@@ -66,6 +67,7 @@ return [
         'numeric' => 'The :attribute field must be greater than or equal to :value.',
         'string' => 'The :attribute field must be greater than or equal to :value characters.',
     ],
+    'hex_color' => 'The :attribute field must be a valid hexadecimal color.',
     'image' => 'The :attribute field must be an image.',
     'in' => 'The selected :attribute is invalid.',
     'in_array' => 'The :attribute field must exist in :other.',
@@ -74,6 +76,7 @@ return [
     'ipv4' => 'The :attribute field must be a valid IPv4 address.',
     'ipv6' => 'The :attribute field must be a valid IPv6 address.',
     'json' => 'The :attribute field must be a valid JSON string.',
+    'list' => 'The :attribute field must be a list.',
     'lowercase' => 'The :attribute field must be lowercase.',
     'lt' => [
         'array' => 'The :attribute field must have less than :value items.',
