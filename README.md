@@ -25,5 +25,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/SqFNmAO.png)
+![](https://i.imgur.com/0qaw4pe.png)
 > 快速對網址進行壓力測試
